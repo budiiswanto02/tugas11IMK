@@ -1,0 +1,239 @@
+body {
+  background: rgb(28, 146, 140);
+  color: rgba(10, 117, 124, 0.808);
+  height: 90px;
+  overflow-x : hidden
+}
+
+.partHeader {
+  background-color: rgb(0, 255, 255);
+  background-size: cover;
+  position: relative;
+  height: 843px;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+#fotoDiri {
+  border-radius: 50%;
+  height: 110px;
+  width: 110px;
+  border: 6px solid rgba(28, 146, 140);
+}
+
+.navbar {
+  position: relative;
+  top: -100px;
+  text-align: right;
+  font-size: larger;
+  font-style: inherit;
+}
+
+.namaGedeSatu {
+  position: relative;
+  font-size: 77px;
+  top: -160px;
+  font-family: Brush Script MT;
+}
+
+.namaGedeDua {
+  position: relative;
+  font-size: 32px;
+  top: -300px;
+  font-family: Lucida Console;
+}
+
+#gambarDesign {
+  position: relative;
+  top: -458px;
+  left: 345px;
+  height: 850px;
+  width: 850px;
+}
+
+#fotoDiriDua {
+  position: relative;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 255, 242);
+  padding: 6px;
+  top: 50px;
+  left: 525px;
+  height: 370px;
+  width: 370px;
+}
+
+.namaGedeTiga {
+  position: relative;
+  font-size: 77px;
+  left: -120px;
+  font-family: sans-serif;
+  color: rgb(2, 61, 48);
+  top: -5px;
+}
+
+.namaGedeEmpat {
+  position: relative;
+  font-size: 20px;
+  left: 280px;
+  width: 880px;
+  color: rgb(2, 61, 48);
+  top: -140px;
+  font-family: cursive;
+  font-size: x-large;
+  text-align: center;
+}
+
+#pembatasa {
+  position: relative;
+  top: -100px;
+  left: 650px;
+}
+
+.judulProfil {
+  position: relative;
+  top: -120px;
+  font-family: sans-serif;
+  color: rgb(2, 61, 48);
+  font-size: 78px;
+}
+
+#jenjangPendidikanimg {
+  position: relative;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 255, 242);
+  padding: 6px;
+  top: -100px;
+  left: 52px;
+  height: 370px;
+  width: 370px;
+}
+
+.jenjangPendidikan {
+  top: -595px;
+  font-family: Trebuchet Ms;
+  position: relative;
+  font-size: 45px;
+  color: rgb(2, 61, 48);
+}
+.jenjangParagraf {
+  top: -650px;
+  left: 470px;
+  font-family: cursive;
+  position: relative;
+  font-size: 24px;
+  color: rgb(2, 61, 48);
+  line-height: 30px;
+}
+
+#pembatasb {
+  position: relative;
+  top: -560px;
+  left: 650px;
+}
+
+#pengalamanOrganisasiimg {
+  position: relative;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 255, 242);
+  padding: 6px;
+  top: -489px;
+  left: 1000px;
+  height: 370px;
+  width: 370px;
+}
+
+.pengalamanOrganisasi {
+  top: -960px;
+  font-family: Trebuchet Ms;
+  position: relative;
+  font-size: 45px;
+  color: rgb(2, 61, 48);
+  left: -29px;
+}
+
+.pengalamanParagraf {
+  top: -1020px;
+  left: 9px;
+  font-family: cursive;
+  position: relative;
+  font-size: 24px;
+  color: rgb(2, 61, 48);
+  line-height: 30px;
+}
+
+#pembatasc {
+  position: relative;
+  top: -925px;
+  left: 650px;
+}
+
+#mataKuliahimg {
+  position: relative;
+  border-radius: 50%;
+  border: 5px solid rgb(0, 255, 242);
+  padding: 6px;
+  top: -848px;
+  left: 52px;
+  height: 370px;
+  width: 370px;
+}
+
+.mataKuliah {
+  top: -1280px;
+  font-family: Trebuchet Ms;
+  position: relative;
+  font-size: 45px;
+  color: rgb(2, 61, 48);
+}
+.mataKuliahParagraf {
+  top: -1330px;
+  left: 470px;
+  font-family: cursive;
+  position: relative;
+  font-size: 24px;
+  color: rgb(2, 61, 48);
+  line-height: 30px;
+}
+
+#pembatasd {
+  position: relative;
+  top: -1229px;
+  left: 650px;
+}
+
+.partFooter {
+  background-color: rgb(0, 255, 255);
+  background-size: cover;
+  position: relative;
+  height: 300px;
+  top: -1145px;
+  margin-left: -8px;
+  margin-right: -8px;
+  
+}
+
+.navbarBawah {
+  position: relative;
+  top: 75px;
+  left: 499px;
+  font-size: larger;
+  font-style: inherit;
+}
+
+.medsos {
+  position: relative;
+  top: 76px;
+  left: 460px;
+  font-size: x-large;
+  color: rgba(68, 65, 65, 0.897);
+  font-family: Gill Sans MT ;
+}
+
+.penutup {
+  position: relative;
+  font-size: xx-large;
+  color: rgb(7, 60, 95);
+  top: 25px;
+  left: 639px;
+}
